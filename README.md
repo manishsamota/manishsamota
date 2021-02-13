@@ -1,5 +1,6 @@
 <h1 align="left">Hello Everyone 👋, I'm Manish Samota</h1>
-<h3 align="left">A passionate Full Stack Web Dveloper from India</h3>
+
+<h2 align="left"> A passionate Full Stack Web Dveloper from India</h2>
 
 
 - 🔭 I’m currently working on **Full-Stack Web Development and Open Source Contributions**
@@ -11,8 +12,6 @@
 - 💬 Ask me about **C++, HTML, CSS, Java Script, Git, GitHub and Open Source, etc.**
 
 - ⚡ Fun fact **I am bit serious.**
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,11 +34,13 @@
  
    </p>
 
+<br/>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=manishsamota&show_icons=true&locale=en" alt="manishsamota" />
 </p>
 
-<br/><br/><br/><br/> <br/><br/> <br/><br/>
+<br/><br/><br/><br/> <br/><br/> <br/><br/><br/>
 
 
 
