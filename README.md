@@ -13,6 +13,14 @@
 
 - ⚡ Fun fact **I am bit serious.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://twitter.com/manish_samota_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="manish_samota_1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manish-samota" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manish-samota" height="30" width="40" /></a>
+<a href="https://instagram.com/manish_samota_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manish_samota_1" height="30" width="40" /></a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
