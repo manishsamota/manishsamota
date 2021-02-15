@@ -2,6 +2,7 @@
 
 <h2 align="left"> A passionate Full Stack Web Dveloper from India</h2>
 
+- 💻 You can also check out my portfolio at https://manishsamota.github.io/Manish_Samota_Portfolio/
 
 - 🔭 I’m currently working on **Full-Stack Web Development and Open Source Contributions**
 
